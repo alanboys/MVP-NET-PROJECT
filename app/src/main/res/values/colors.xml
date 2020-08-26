@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- 全局背景颜色 -->
+    <color name="color_global_background">#f0f0f0</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="default_line_color">#e8e8e8</color>
+    <color name="default_item_bg">#e8e8e8</color>
+    <color name="default_gray_color">#f3f3f3</color>
+    <color name="default_blue">#1592F6</color>
+    <color name="color_translate">#FF000000</color>
+    <color name="common_title_bg">#FFFFFF</color>
+    <color name="white">#ffffff</color>
+    <!-- 透明色 -->
+    <color name="transparent">#00000000</color>
+    <color name="color_transparent">#204B4E</color>
+
+    <!--tab sel颜色-->
+
+    <color name="color_tab_sel">#1B3865</color>
+    <color name="color_tab">#5A5A55</color>
+
+    <color name="color_f5">#F5F6F7</color>
+
+    <!--文字颜色-->
+    <color name="text_color_00">#00000000</color>
+    <color name="text_color_7f">#7F7F7F</color>
+    <color name="text_color_62">#626262</color>
+    <color name="text_color_3a">#3A3A3A</color>
+    <color name="blue">#1592F6</color>
+    <color name="default_text_color">#333333</color>
+    <color name="default_text_color_low">#666666</color>
+    <color name="default_text_color_low1">#999999</color>
+
+
+</resources>

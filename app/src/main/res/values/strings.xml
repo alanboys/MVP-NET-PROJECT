@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">甜筒</string>
+    <string name="home_permission">权限</string>
+    <string name="home_apply_permission">申请失败</string>
+    <string name="home_apply_permission_success">申请成功</string>
+
+    <!-- 首页tab txt-->
+    <string name="home_page">首页</string>
+    <string name="transaction_page">交易</string>
+    <string name="game_page">游戏</string>
+    <string name="mine_page">我的</string>
+
+    <!--首页-->
+
+    <string name="home_pool_earnings">矿池收益TT</string>
+    <string name="home_lock_detail">查看详情</string>
+    <string name="home_item_kc">矿池</string>
+    <string name="home_item_sk">收款</string>
+    <string name="home_item_zz">转账</string>
+    <string name="home_item_zb">帐本</string>
+    <string name="home_item_jj">产业基金</string>
+    <string name="home_item_sq">社区</string>
+    <string name="home_item_fx">发行</string>
+    <string name="home_item_zc">众筹</string>
+
+
+
+    <!--启动页-->
+    <string name="splash_open_wallet">开启您的第一个数字钱包</string>
+
+    <!--网络加载-->
+    <string name="loading">加载中</string>
+    <string name="no_network">请检查网络连接</string>
+    <string name="network_connect_error">网络访问错误，请稍后再试</string>
+    <string name="json_parse_error">数据解析出错</string>
+    <string name="network_timeout">网络访问超时</string>
+    <string name="network_connect">网络连接异常</string>
+    <string name="illegal_argument">非法参数异常</string>
+
+
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="success">成功</string>
+    <string name="defeated">失败</string>
+    <string name="back_home">返回首页</string>
+    <string name="back_pay">重新支付</string>
+    <string name="lock_order">查看订单</string>
+    <string name="order_amount">支付金额</string>
+    <string name="pay_success">恭喜您支付完成</string>
+    <string name="pay_fail">付款失败</string>
+    <string name="pay_time">请在15分钟内支付完成\n否则订单将会被系统取消</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/activate_page">
+
+    <ImageView
+        android:id="@+id/activate_page_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/dp_187"
+        android:src="@mipmap/activate_page_icon" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/activate_page_icon"
+        android:layout_marginTop="@dimen/dp_37"
+        android:gravity="center"
+        android:text="@string/splash_open_wallet"
+        android:textColor="@color/color_tab_sel"
+        android:layout_marginLeft="@dimen/dp_30"
+        android:layout_marginRight="@dimen/dp_30"
+        android:textSize="@dimen/sp_14" />
+
+</RelativeLayout>
